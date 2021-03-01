@@ -1,2 +1,4 @@
 # Regina
 Practice
+Practicing
+perfecting
